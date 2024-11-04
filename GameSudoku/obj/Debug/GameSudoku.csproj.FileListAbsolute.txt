@@ -1,0 +1,11 @@
+D:\Code\CSharp\GameSudoku\GameSudoku\obj\Debug\GameSudoku.csproj.AssemblyReference.cache
+D:\Code\CSharp\GameSudoku\GameSudoku\obj\Debug\GameSudoku.csproj.SuggestedBindingRedirects.cache
+D:\Code\CSharp\GameSudoku\GameSudoku\obj\Debug\GameSudoku.Properties.Resources.resources
+D:\Code\CSharp\GameSudoku\GameSudoku\obj\Debug\GameSudoku.csproj.GenerateResource.cache
+D:\Code\CSharp\GameSudoku\GameSudoku\obj\Debug\GameSudoku.csproj.CoreCompileInputs.cache
+D:\Code\CSharp\GameSudoku\GameSudoku\bin\Debug\GameSudoku.exe.config
+D:\Code\CSharp\GameSudoku\GameSudoku\bin\Debug\GameSudoku.exe
+D:\Code\CSharp\GameSudoku\GameSudoku\bin\Debug\GameSudoku.pdb
+D:\Code\CSharp\GameSudoku\GameSudoku\obj\Debug\GameSudoku.Form1.resources
+D:\Code\CSharp\GameSudoku\GameSudoku\obj\Debug\GameSudoku.exe
+D:\Code\CSharp\GameSudoku\GameSudoku\obj\Debug\GameSudoku.pdb
